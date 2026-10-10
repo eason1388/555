@@ -1,6 +1,7 @@
 from pathlib import Path
 import json
 import re
+import sys
 import unicodedata
 
 ROOT = Path(__file__).resolve().parent
@@ -17,6 +18,8 @@ def count_body(text):
 
 
 def main():
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     rows = []
     for path in sorted(ROOT.glob("[0-9][0-9]_*.md")):
         text = path.read_text(encoding="utf-8")
@@ -43,7 +46,7 @@ def main():
               "已完成引句的網路文本對照；正式出版底本、頁碼與全書統稿仍待後續處理。", ""]
     (ROOT / "書稿進度.md").write_text("\n".join(lines), encoding="utf-8")
     (ROOT / "字數紀錄.json").write_text(json.dumps({"chapters": rows, "total": total, "target": 300000}, ensure_ascii=False, indent=2), encoding="utf-8")
-    collected = ["# 修道與濟世：隨緣堂道教義理、養氣與科儀研究", "", "持續更新正文初稿｜尚未完成全書統稿", ""]
+    collected = ["# 《修道與濟世》", "", "持續更新正文初稿｜尚未完成全書統稿", ""]
     for row in rows:
         collected += [(ROOT / row["file"]).read_text(encoding="utf-8"), "\n\n"]
     (ROOT / "全書正文_持續更新.md").write_text("\n".join(collected), encoding="utf-8")
