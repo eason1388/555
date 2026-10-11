@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="《修道與濟世》線上全文：從修道根基、氣神內煉，到符籙科儀與濟世實踐。">
+  <meta name="theme-color" content="#f2eee4">
+  <title>修道與濟世｜線上全文</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="book-data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#reader">跳至正文</a>
+  <div class="reading-progress" aria-hidden="true"><span id="reading-progress-bar"></span></div>
+
+  <header class="topbar">
+    <button class="icon-button menu-button" id="menu-button" type="button" aria-label="開啟目錄" aria-expanded="false" title="開啟目錄">
+      <span aria-hidden="true">☰</span>
+    </button>
+    <a class="brand" href="#home" aria-label="回到首頁">
+      <span class="brand-mark" aria-hidden="true">道</span>
+      <span><strong>修道與濟世</strong><small>線上全文</small></span>
+    </a>
+    <nav class="top-actions" aria-label="閱讀工具">
+      <button class="text-button" id="full-book-button" type="button" title="將全書一次展開">閱讀全文</button>
+      <button class="icon-button" id="font-button" type="button" aria-label="調整字體大小" title="調整字體大小">Aa</button>
+      <button class="icon-button" id="theme-button" type="button" aria-label="切換深色模式" title="切換深色模式"><span aria-hidden="true">◐</span></button>
+    </nav>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="全書目錄">
+      <div class="sidebar-head">
+        <label for="chapter-search">搜尋全書</label>
+        <div class="search-wrap">
+          <span aria-hidden="true">⌕</span>
+          <input id="chapter-search" type="search" placeholder="章名或內文關鍵字" autocomplete="off">
+        </div>
+        <p id="search-status" class="search-status" aria-live="polite"></p>
+      </div>
+      <nav id="chapter-nav" class="chapter-nav" aria-label="章節列表"></nav>
+      <div class="sidebar-foot">
+        <a href="https://github.com/eason1388/555" target="_blank" rel="noopener noreferrer">查看原始書稿</a>
+      </div>
+    </aside>
+    <button class="sidebar-scrim" id="sidebar-scrim" type="button" aria-label="關閉目錄"></button>
+
+    <main id="reader" class="reader" tabindex="-1">
+      <div class="loading" id="loading">正在整理書頁……</div>
+    </main>
+
+    <aside class="section-rail" id="section-rail" aria-label="本章段落"></aside>
+  </div>
+
+  <button class="back-to-top" id="back-to-top" type="button" aria-label="回到頁首" title="回到頁首">↑</button>
+  <noscript><p class="noscript">請開啟 JavaScript 以閱讀全書。</p></noscript>
+</body>
+</html>
