@@ -1,8 +1,8 @@
 {
   "title": "陰陽相和：從《黃帝內經》讀懂養生之道",
   "target_characters": 200000,
-  "current_characters": 29866,
-  "completed_units": 21,
+  "current_characters": 53265,
+  "completed_units": 56,
   "records": [
     {
       "file": "10_導論_養生是在變化中保全生命.md",
@@ -57,6 +57,62 @@
       "characters": 673
     },
     {
+      "file": "23_第十三章_精是生命有所積.md",
+      "characters": 1182
+    },
+    {
+      "file": "24_第十四章_氣是生命的往來.md",
+      "characters": 1120
+    },
+    {
+      "file": "25_第十五章_神是生命有主.md",
+      "characters": 1131
+    },
+    {
+      "file": "26_第十六章_血與津液.md",
+      "characters": 1091
+    },
+    {
+      "file": "27_第十七章_五藏陰陽相使.md",
+      "characters": 1031
+    },
+    {
+      "file": "28_第十八章_經絡使上下內外相通.md",
+      "characters": 1009
+    },
+    {
+      "file": "29_第十九章_睡眠陽入於陰.md",
+      "characters": 1028
+    },
+    {
+      "file": "30_第二十章_晨昏建立日常開闔.md",
+      "characters": 1022
+    },
+    {
+      "file": "31_第二十一章_飲食有節.md",
+      "characters": 963
+    },
+    {
+      "file": "32_第二十二章_五味與胃口.md",
+      "characters": 983
+    },
+    {
+      "file": "33_第二十三章_動與勞.md",
+      "characters": 977
+    },
+    {
+      "file": "34_第二十四章_呼吸與放鬆.md",
+      "characters": 833
+    },
+    {
+      "file": "35_第二十五章_情志各有其時.md",
+      "characters": 916
+    },
+    {
+      "file": "36_第二十六章_居處與衣著.md",
+      "characters": 901
+    },
+    {
       "file": "37_第二十七章_男女陰陽相反相成.md",
       "characters": 1372
     },
@@ -87,6 +143,90 @@
     {
       "file": "44_第三十四章_更年與中年轉化.md",
       "characters": 1420
+    },
+    {
+      "file": "45_第三十五章_體質不是命定標籤.md",
+      "characters": 528
+    },
+    {
+      "file": "46_第三十六章_總是疲倦.md",
+      "characters": 525
+    },
+    {
+      "file": "47_第三十七章_睡不好.md",
+      "characters": 422
+    },
+    {
+      "file": "48_第三十八章_胃口與排便失序.md",
+      "characters": 411
+    },
+    {
+      "file": "49_第三十九章_壓力疼痛與緊繃.md",
+      "characters": 412
+    },
+    {
+      "file": "50_第四十章_怕冷怕熱.md",
+      "characters": 426
+    },
+    {
+      "file": "51_第四十一章_久坐用眼與數位生活.md",
+      "characters": 432
+    },
+    {
+      "file": "52_第四十二章_補養迷思.md",
+      "characters": 457
+    },
+    {
+      "file": "53_第四十三章_一日養生.md",
+      "characters": 398
+    },
+    {
+      "file": "54_第四十四章_一週養生.md",
+      "characters": 379
+    },
+    {
+      "file": "55_第四十五章_一年養生.md",
+      "characters": 401
+    },
+    {
+      "file": "56_第四十六章_青少年.md",
+      "characters": 355
+    },
+    {
+      "file": "57_第四十七章_壯年.md",
+      "characters": 340
+    },
+    {
+      "file": "58_第四十八章_老年.md",
+      "characters": 371
+    },
+    {
+      "file": "59_第四十九章_照顧者.md",
+      "characters": 378
+    },
+    {
+      "file": "60_第五十章_何時自調何時借力.md",
+      "characters": 393
+    },
+    {
+      "file": "61_附錄一_內經養生篇章閱讀次第.md",
+      "characters": 606
+    },
+    {
+      "file": "62_附錄二_四時晝夜生活觀察表.md",
+      "characters": 445
+    },
+    {
+      "file": "63_附錄三_三十日陰陽復和.md",
+      "characters": 386
+    },
+    {
+      "file": "64_附錄四_常見養生說法重讀.md",
+      "characters": 522
+    },
+    {
+      "file": "65_後記_在變化中相和.md",
+      "characters": 625
     }
   ]
 }
