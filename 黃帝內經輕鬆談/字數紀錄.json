@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 86317,
+  "current_characters": 93154,
   "completed_units": 56,
   "records": [
     {
@@ -126,23 +126,23 @@
     },
     {
       "file": "40_第三十章_汗吐下和.md",
-      "characters": 1077
+      "characters": 2563
     },
     {
       "file": "41_第三十一章_針刺之前.md",
-      "characters": 1124
+      "characters": 2481
     },
     {
       "file": "42_第三十二章_穴位與身體反應.md",
-      "characters": 1339
+      "characters": 2703
     },
     {
       "file": "43_第三十三章_補瀉迎隨與分寸.md",
-      "characters": 1395
+      "characters": 2716
     },
     {
       "file": "44_第三十四章_治療何時該停.md",
-      "characters": 1129
+      "characters": 2438
     },
     {
       "file": "45_第三十五章_四季與身體節律.md",
