@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 75662,
+  "current_characters": 77808,
   "completed_units": 56,
   "records": [
     {
@@ -90,11 +90,11 @@
     },
     {
       "file": "31_第二十一章_風寒暑濕燥火.md",
-      "characters": 1343
+      "characters": 2405
     },
     {
       "file": "32_第二十二章_喜怒憂思恐.md",
-      "characters": 1277
+      "characters": 2361
     },
     {
       "file": "33_第二十三章_飲食勞倦與生活.md",
