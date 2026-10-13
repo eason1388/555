@@ -1,7 +1,7 @@
 {
   "title": "陰陽相和：從《黃帝內經》讀懂養生之道",
   "target_characters": 200000,
-  "current_characters": 130131,
+  "current_characters": 141523,
   "completed_units": 56,
   "records": [
     {
@@ -210,23 +210,23 @@
     },
     {
       "file": "61_附錄一_內經養生篇章閱讀次第.md",
-      "characters": 606
+      "characters": 2500
     },
     {
       "file": "62_附錄二_四時晝夜生活觀察表.md",
-      "characters": 445
+      "characters": 2180
     },
     {
       "file": "63_附錄三_三十日陰陽復和.md",
-      "characters": 386
+      "characters": 2410
     },
     {
       "file": "64_附錄四_常見養生說法重讀.md",
-      "characters": 522
+      "characters": 3944
     },
     {
       "file": "65_後記_在變化中相和.md",
-      "characters": 625
+      "characters": 2942
     }
   ]
 }
