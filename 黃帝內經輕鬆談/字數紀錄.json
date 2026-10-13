@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 97850,
+  "current_characters": 101238,
   "completed_units": 56,
   "records": [
     {
@@ -162,15 +162,15 @@
     },
     {
       "file": "49_第三十九章_動靜之間.md",
-      "characters": 1307
+      "characters": 2385
     },
     {
       "file": "50_第四十章_五味入口之後.md",
-      "characters": 1159
+      "characters": 2250
     },
     {
       "file": "51_第四十一章_治未病與日常覺察.md",
-      "characters": 1184
+      "characters": 2403
     },
     {
       "file": "52_第四十二章_生長壯老已.md",
