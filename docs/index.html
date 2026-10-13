@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="《修道與濟世》線上全文：從修道根基、氣神內煉，到符籙科儀與濟世實踐。">
+  <meta name="description" content="線上書庫：完整閱讀《陰陽相和》與《修道與濟世》。">
   <meta name="theme-color" content="#f2eee4">
-  <title>修道與濟世｜線上全文</title>
+  <title>線上書庫｜全文閱讀</title>
   <link rel="stylesheet" href="styles.css">
   <script src="book-data.js" defer></script>
   <script src="app.js" defer></script>
@@ -19,10 +19,12 @@
       <span aria-hidden="true">☰</span>
     </button>
     <a class="brand" href="#home" aria-label="回到首頁">
-      <span class="brand-mark" aria-hidden="true">道</span>
-      <span><strong>修道與濟世</strong><small>線上全文</small></span>
+      <span class="brand-mark" id="brand-mark" aria-hidden="true">書</span>
+      <span><strong id="brand-title">線上書庫</strong><small id="brand-subtitle">全文閱讀</small></span>
     </a>
     <nav class="top-actions" aria-label="閱讀工具">
+      <label class="book-switcher-label" for="book-switcher">選擇書籍</label>
+      <select class="book-switcher" id="book-switcher" aria-label="選擇書籍"></select>
       <button class="text-button" id="full-book-button" type="button" title="將全書一次展開">閱讀全文</button>
       <button class="icon-button" id="font-button" type="button" aria-label="調整字體大小" title="調整字體大小">Aa</button>
       <button class="icon-button" id="theme-button" type="button" aria-label="切換深色模式" title="切換深色模式"><span aria-hidden="true">◐</span></button>

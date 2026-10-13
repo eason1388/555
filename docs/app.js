@@ -1,7 +1,10 @@
 (() => {
   "use strict";
 
-  const book = window.BOOK_DATA;
+  const library = window.BOOK_LIBRARY;
+  const requestedBook = new URLSearchParams(location.search).get("book");
+  const currentSlug = library?.books?.[requestedBook] ? requestedBook : library?.defaultBook;
+  const book = library?.books?.[currentSlug];
   const reader = document.querySelector("#reader");
   const nav = document.querySelector("#chapter-nav");
   const rail = document.querySelector("#section-rail");
@@ -12,11 +15,25 @@
   const menuButton = document.querySelector("#menu-button");
   const progressBar = document.querySelector("#reading-progress-bar");
   const backToTop = document.querySelector("#back-to-top");
+  const bookSwitcher = document.querySelector("#book-switcher");
 
   if (!book || !Array.isArray(book.chapters)) {
     reader.innerHTML = '<div class="empty-state">書稿資料載入失敗，請重新整理頁面。</div>';
     return;
   }
+
+  document.querySelector("#brand-mark").textContent = book.mark;
+  document.querySelector("#brand-title").textContent = book.title;
+  document.querySelector("#brand-subtitle").textContent = book.subtitle;
+  bookSwitcher.innerHTML = Object.values(library.books)
+    .map((item) => `<option value="${item.slug}"${item.slug === currentSlug ? " selected" : ""}>${item.title}</option>`)
+    .join("");
+  bookSwitcher.addEventListener("change", () => {
+    const url = new URL(location.href);
+    url.searchParams.set("book", bookSwitcher.value);
+    url.hash = "home";
+    location.href = url.toString();
+  });
 
   const escapeHtml = (value) => String(value)
     .replaceAll("&", "&amp;")
@@ -101,14 +118,14 @@
       <p class="eyebrow">線上完整書稿</p>
       <h1>${escapeHtml(book.title)}</h1>
       <p class="motto">${escapeHtml(book.motto)}</p>
-      <p class="intro">從修道的根基出發，經由德、氣、神而進入符籙、科儀與濟世之用。章節不是各自分離的知識，而是一條由內在修持走向人間實踐的路。</p>
+      <p class="intro">${escapeHtml(book.intro)}</p>
       <div class="home-actions">
         <button class="primary-action" id="start-reading" type="button">從導論開始</button>
         <button class="secondary-action" id="read-all" type="button">一次展開全文</button>
       </div>
       <div class="book-stats" aria-label="全書統計">
         <div class="book-stat"><strong>${book.chapterCount}</strong><span>篇章單元</span></div>
-        <div class="book-stat"><strong>10</strong><span>主題篇章</span></div>
+        <div class="book-stat"><strong>${book.themeCount}</strong><span>主題篇章</span></div>
         <div class="book-stat"><strong>${Math.round(book.characters / 10000)} 萬</strong><span>約略字元</span></div>
       </div>
     </section>`;
