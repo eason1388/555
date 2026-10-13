@@ -1,8 +1,8 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 34548,
-  "completed_units": 21,
+  "current_characters": 75662,
+  "completed_units": 56,
   "records": [
     {
       "file": "10_導讀_先別急著把內經讀得太難.md",
@@ -87,6 +87,146 @@
     {
       "file": "30_第二十章_平人是什麼樣子.md",
       "characters": 1342
+    },
+    {
+      "file": "31_第二十一章_風寒暑濕燥火.md",
+      "characters": 1343
+    },
+    {
+      "file": "32_第二十二章_喜怒憂思恐.md",
+      "characters": 1277
+    },
+    {
+      "file": "33_第二十三章_飲食勞倦與生活.md",
+      "characters": 1275
+    },
+    {
+      "file": "34_第二十四章_邪氣與正氣.md",
+      "characters": 1169
+    },
+    {
+      "file": "35_第二十五章_寒熱虛實.md",
+      "characters": 1099
+    },
+    {
+      "file": "36_第二十六章_病從表入裡.md",
+      "characters": 1059
+    },
+    {
+      "file": "37_第二十七章_同病不同人.md",
+      "characters": 1030
+    },
+    {
+      "file": "38_第二十八章_治病必求於本.md",
+      "characters": 1282
+    },
+    {
+      "file": "39_第二十九章_扶正與祛邪.md",
+      "characters": 1114
+    },
+    {
+      "file": "40_第三十章_汗吐下和.md",
+      "characters": 1077
+    },
+    {
+      "file": "41_第三十一章_針刺之前.md",
+      "characters": 1124
+    },
+    {
+      "file": "42_第三十二章_穴位與身體反應.md",
+      "characters": 1339
+    },
+    {
+      "file": "43_第三十三章_補瀉迎隨與分寸.md",
+      "characters": 1395
+    },
+    {
+      "file": "44_第三十四章_治療何時該停.md",
+      "characters": 1129
+    },
+    {
+      "file": "45_第三十五章_四季與身體節律.md",
+      "characters": 1176
+    },
+    {
+      "file": "46_第三十六章_一天之中的晨昏開闔.md",
+      "characters": 1127
+    },
+    {
+      "file": "47_第三十七章_吃飯與節度.md",
+      "characters": 1294
+    },
+    {
+      "file": "48_第三十八章_睡眠與夜晚.md",
+      "characters": 1284
+    },
+    {
+      "file": "49_第三十九章_動靜之間.md",
+      "characters": 1307
+    },
+    {
+      "file": "50_第四十章_五味入口之後.md",
+      "characters": 1159
+    },
+    {
+      "file": "51_第四十一章_治未病與日常覺察.md",
+      "characters": 1184
+    },
+    {
+      "file": "52_第四十二章_生長壯老已.md",
+      "characters": 1211
+    },
+    {
+      "file": "53_第四十三章_月經孕育與產後.md",
+      "characters": 1354
+    },
+    {
+      "file": "54_第四十四章_男人的盛衰節律.md",
+      "characters": 1195
+    },
+    {
+      "file": "55_第四十五章_孩子有自己的身體.md",
+      "characters": 1105
+    },
+    {
+      "file": "56_第四十六章_中年的轉彎.md",
+      "characters": 1087
+    },
+    {
+      "file": "57_第四十七章_老年值得理解.md",
+      "characters": 1090
+    },
+    {
+      "file": "58_第四十八章_兩種醫學語言.md",
+      "characters": 929
+    },
+    {
+      "file": "59_第四十九章_讀懂流行養生說法.md",
+      "characters": 1053
+    },
+    {
+      "file": "60_第五十章_經典留給今天的眼光.md",
+      "characters": 1052
+    },
+    {
+      "file": "61_附錄一_素問入門閱讀次第.md",
+      "characters": 1424
+    },
+    {
+      "file": "62_附錄二_靈樞入門閱讀次第.md",
+      "characters": 1186
+    },
+    {
+      "file": "63_附錄三_常見名詞白話索引.md",
+      "characters": 1493
+    },
+    {
+      "file": "64_附錄四_重要篇章與主題對照表.md",
+      "characters": 1180
+    },
+    {
+      "file": "70_後記_讀懂一點也能讓日子不同.md",
+      "characters": 512
     }
   ]
 }
