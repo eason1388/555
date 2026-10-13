@@ -1,0 +1,92 @@
+{
+  "title": "黃帝內經輕鬆談",
+  "target_characters": 200000,
+  "current_characters": 34548,
+  "completed_units": 21,
+  "records": [
+    {
+      "file": "10_導讀_先別急著把內經讀得太難.md",
+      "characters": 1879
+    },
+    {
+      "file": "11_第一章_黃帝內經不是黃帝一個人寫的.md",
+      "characters": 1623
+    },
+    {
+      "file": "12_第二章_素問與靈樞.md",
+      "characters": 1840
+    },
+    {
+      "file": "13_第三章_黃帝為什麼總是在發問.md",
+      "characters": 1836
+    },
+    {
+      "file": "14_第四章_讀古書先聽懂它在擔心什麼.md",
+      "characters": 1850
+    },
+    {
+      "file": "15_第五章_內經眼中的人不是一堆零件.md",
+      "characters": 2137
+    },
+    {
+      "file": "16_第六章_陰陽男女與親密.md",
+      "characters": 2633
+    },
+    {
+      "file": "17_第七章_五行不是五種神祕材料.md",
+      "characters": 1596
+    },
+    {
+      "file": "18_第八章_氣到底是什麼.md",
+      "characters": 1668
+    },
+    {
+      "file": "19_第九章_精與人的底子.md",
+      "characters": 1728
+    },
+    {
+      "file": "20_第十章_神與生命有主.md",
+      "characters": 1728
+    },
+    {
+      "file": "21_第十一章_血與津液.md",
+      "characters": 1492
+    },
+    {
+      "file": "22_第十二章_五藏不是五個器官的舊名字.md",
+      "characters": 1362
+    },
+    {
+      "file": "23_第十三章_六府為什麼貴在通.md",
+      "characters": 1509
+    },
+    {
+      "file": "24_第十四章_經絡與全身相連.md",
+      "characters": 1510
+    },
+    {
+      "file": "25_第十五章_望診先看人再看病.md",
+      "characters": 1503
+    },
+    {
+      "file": "26_第十六章_聲音氣味與線索.md",
+      "characters": 1206
+    },
+    {
+      "file": "27_第十七章_問診不是照表勾選.md",
+      "characters": 1551
+    },
+    {
+      "file": "28_第十八章_脈診為何讓人著迷.md",
+      "characters": 1243
+    },
+    {
+      "file": "29_第十九章_四診合參.md",
+      "characters": 1312
+    },
+    {
+      "file": "30_第二十章_平人是什麼樣子.md",
+      "characters": 1342
+    }
+  ]
+}
