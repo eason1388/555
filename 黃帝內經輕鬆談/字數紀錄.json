@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 115245,
+  "current_characters": 119296,
   "completed_units": 56,
   "records": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "file": "11_第一章_黃帝內經不是黃帝一個人寫的.md",
-      "characters": 1623
+      "characters": 3072
     },
     {
       "file": "12_第二章_素問與靈樞.md",
-      "characters": 1840
+      "characters": 3148
     },
     {
       "file": "13_第三章_黃帝為什麼總是在發問.md",
-      "characters": 1836
+      "characters": 3130
     },
     {
       "file": "14_第四章_讀古書先聽懂它在擔心什麼.md",
