@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 133362,
+  "current_characters": 139623,
   "completed_units": 56,
   "records": [
     {
@@ -66,27 +66,27 @@
     },
     {
       "file": "25_第十五章_望診先看人再看病.md",
-      "characters": 1503
+      "characters": 2530
     },
     {
       "file": "26_第十六章_聲音氣味與線索.md",
-      "characters": 1206
+      "characters": 2217
     },
     {
       "file": "27_第十七章_問診不是照表勾選.md",
-      "characters": 1551
+      "characters": 2719
     },
     {
       "file": "28_第十八章_脈診為何讓人著迷.md",
-      "characters": 1243
+      "characters": 2303
     },
     {
       "file": "29_第十九章_四診合參.md",
-      "characters": 1312
+      "characters": 2279
     },
     {
       "file": "30_第二十章_平人是什麼樣子.md",
-      "characters": 1342
+      "characters": 2370
     },
     {
       "file": "31_第二十一章_風寒暑濕燥火.md",
