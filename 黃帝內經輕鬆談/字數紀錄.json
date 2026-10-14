@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 197266,
+  "current_characters": 200094,
   "completed_units": 56,
   "records": [
     {
@@ -186,15 +186,15 @@
     },
     {
       "file": "55_第四十五章_孩子有自己的身體.md",
-      "characters": 3446
+      "characters": 4377
     },
     {
       "file": "56_第四十六章_中年的轉彎.md",
-      "characters": 3164
+      "characters": 4117
     },
     {
       "file": "57_第四十七章_老年值得理解.md",
-      "characters": 3341
+      "characters": 4288
     },
     {
       "file": "58_第四十八章_兩種醫學語言.md",
@@ -226,7 +226,7 @@
     },
     {
       "file": "70_後記_讀懂一點也能讓日子不同.md",
-      "characters": 2144
+      "characters": 2141
     }
   ]
 }
