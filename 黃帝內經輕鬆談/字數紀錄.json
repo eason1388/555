@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 160264,
+  "current_characters": 165669,
   "completed_units": 56,
   "records": [
     {
@@ -90,83 +90,83 @@
     },
     {
       "file": "31_第二十一章_風寒暑濕燥火.md",
-      "characters": 2769
+      "characters": 3056
     },
     {
       "file": "32_第二十二章_喜怒憂思恐.md",
-      "characters": 2705
+      "characters": 3000
     },
     {
       "file": "33_第二十三章_飲食勞倦與生活.md",
-      "characters": 2825
+      "characters": 3095
     },
     {
       "file": "34_第二十四章_邪氣與正氣.md",
-      "characters": 2726
+      "characters": 3003
     },
     {
       "file": "35_第二十五章_寒熱虛實.md",
-      "characters": 2537
+      "characters": 2816
     },
     {
       "file": "36_第二十六章_病從表入裡.md",
-      "characters": 2523
+      "characters": 2812
     },
     {
       "file": "37_第二十七章_同病不同人.md",
-      "characters": 2584
+      "characters": 2853
     },
     {
       "file": "38_第二十八章_治病必求於本.md",
-      "characters": 2756
+      "characters": 3044
     },
     {
       "file": "39_第二十九章_扶正與祛邪.md",
-      "characters": 2864
+      "characters": 3123
     },
     {
       "file": "40_第三十章_汗吐下和.md",
-      "characters": 2870
+      "characters": 3142
     },
     {
       "file": "41_第三十一章_針刺之前.md",
-      "characters": 2771
+      "characters": 3027
     },
     {
       "file": "42_第三十二章_穴位與身體反應.md",
-      "characters": 3014
+      "characters": 3271
     },
     {
       "file": "43_第三十三章_補瀉迎隨與分寸.md",
-      "characters": 3032
+      "characters": 3280
     },
     {
       "file": "44_第三十四章_治療何時該停.md",
-      "characters": 2742
+      "characters": 3009
     },
     {
       "file": "45_第三十五章_四季與身體節律.md",
-      "characters": 2796
+      "characters": 3043
     },
     {
       "file": "46_第三十六章_一天之中的晨昏開闔.md",
-      "characters": 2719
+      "characters": 2976
     },
     {
       "file": "47_第三十七章_吃飯與節度.md",
-      "characters": 2642
+      "characters": 2911
     },
     {
       "file": "48_第三十八章_睡眠與夜晚.md",
-      "characters": 2617
+      "characters": 2884
     },
     {
       "file": "49_第三十九章_動靜之間.md",
-      "characters": 2666
+      "characters": 2944
     },
     {
       "file": "50_第四十章_五味入口之後.md",
-      "characters": 2547
+      "characters": 2821
     },
     {
       "file": "51_第四十一章_治未病與日常覺察.md",
