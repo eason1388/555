@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 187673,
+  "current_characters": 192461,
   "completed_units": 56,
   "records": [
     {
@@ -106,15 +106,15 @@
     },
     {
       "file": "35_第二十五章_寒熱虛實.md",
-      "characters": 3067
+      "characters": 3970
     },
     {
       "file": "36_第二十六章_病從表入裡.md",
-      "characters": 3059
+      "characters": 4043
     },
     {
       "file": "37_第二十七章_同病不同人.md",
-      "characters": 3127
+      "characters": 4083
     },
     {
       "file": "38_第二十八章_治病必求於本.md",
@@ -154,11 +154,11 @@
     },
     {
       "file": "47_第三十七章_吃飯與節度.md",
-      "characters": 3141
+      "characters": 4123
     },
     {
       "file": "48_第三十八章_睡眠與夜晚.md",
-      "characters": 3117
+      "characters": 4080
     },
     {
       "file": "49_第三十九章_動靜之間.md",
