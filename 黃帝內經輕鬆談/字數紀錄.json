@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 139623,
+  "current_characters": 145060,
   "completed_units": 56,
   "records": [
     {
@@ -210,23 +210,23 @@
     },
     {
       "file": "61_附錄一_素問入門閱讀次第.md",
-      "characters": 1424
+      "characters": 2527
     },
     {
       "file": "62_附錄二_靈樞入門閱讀次第.md",
-      "characters": 1186
+      "characters": 2352
     },
     {
       "file": "63_附錄三_常見名詞白話索引.md",
-      "characters": 1493
+      "characters": 2528
     },
     {
       "file": "64_附錄四_重要篇章與主題對照表.md",
-      "characters": 1180
+      "characters": 2165
     },
     {
       "file": "70_後記_讀懂一點也能讓日子不同.md",
-      "characters": 512
+      "characters": 1660
     }
   ]
 }
