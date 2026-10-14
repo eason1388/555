@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 148353,
+  "current_characters": 151349,
   "completed_units": 56,
   "records": [
     {
@@ -130,43 +130,43 @@
     },
     {
       "file": "41_第三十一章_針刺之前.md",
-      "characters": 2481
+      "characters": 2771
     },
     {
       "file": "42_第三十二章_穴位與身體反應.md",
-      "characters": 2703
+      "characters": 3014
     },
     {
       "file": "43_第三十三章_補瀉迎隨與分寸.md",
-      "characters": 2716
+      "characters": 3032
     },
     {
       "file": "44_第三十四章_治療何時該停.md",
-      "characters": 2438
+      "characters": 2742
     },
     {
       "file": "45_第三十五章_四季與身體節律.md",
-      "characters": 2505
+      "characters": 2796
     },
     {
       "file": "46_第三十六章_一天之中的晨昏開闔.md",
-      "characters": 2411
+      "characters": 2719
     },
     {
       "file": "47_第三十七章_吃飯與節度.md",
-      "characters": 2338
+      "characters": 2642
     },
     {
       "file": "48_第三十八章_睡眠與夜晚.md",
-      "characters": 2323
+      "characters": 2617
     },
     {
       "file": "49_第三十九章_動靜之間.md",
-      "characters": 2385
+      "characters": 2666
     },
     {
       "file": "50_第四十章_五味入口之後.md",
-      "characters": 2250
+      "characters": 2547
     },
     {
       "file": "51_第四十一章_治未病與日常覺察.md",
