@@ -1,52 +1,52 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 200094,
+  "current_characters": 199978,
   "completed_units": 56,
   "records": [
     {
       "file": "10_導讀_先別急著把內經讀得太難.md",
-      "characters": 3333
+      "characters": 3500
     },
     {
       "file": "11_第一章_黃帝內經不是黃帝一個人寫的.md",
-      "characters": 3355
+      "characters": 3321
     },
     {
       "file": "12_第二章_素問與靈樞.md",
-      "characters": 3435
+      "characters": 3415
     },
     {
       "file": "13_第三章_黃帝為什麼總是在發問.md",
-      "characters": 3419
+      "characters": 3393
     },
     {
       "file": "14_第四章_讀古書先聽懂它在擔心什麼.md",
-      "characters": 3434
+      "characters": 3424
     },
     {
       "file": "15_第五章_內經眼中的人不是一堆零件.md",
-      "characters": 4099
+      "characters": 4067
     },
     {
       "file": "16_第六章_陰陽男女與親密.md",
-      "characters": 4552
+      "characters": 4466
     },
     {
       "file": "17_第七章_五行不是五種神祕材料.md",
-      "characters": 3298
+      "characters": 3264
     },
     {
       "file": "18_第八章_氣到底是什麼.md",
-      "characters": 3283
+      "characters": 3263
     },
     {
       "file": "19_第九章_精與人的底子.md",
-      "characters": 3350
+      "characters": 3327
     },
     {
       "file": "20_第十章_神與生命有主.md",
-      "characters": 3651
+      "characters": 3653
     },
     {
       "file": "21_第十一章_血與津液.md",
