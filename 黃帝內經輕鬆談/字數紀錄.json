@@ -1,212 +1,212 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 199978,
+  "current_characters": 195759,
   "completed_units": 56,
   "records": [
     {
       "file": "10_導讀_先別急著把內經讀得太難.md",
-      "characters": 3500
+      "characters": 3464
     },
     {
       "file": "11_第一章_黃帝內經不是黃帝一個人寫的.md",
-      "characters": 3321
+      "characters": 3254
     },
     {
       "file": "12_第二章_素問與靈樞.md",
-      "characters": 3415
+      "characters": 3353
     },
     {
       "file": "13_第三章_黃帝為什麼總是在發問.md",
-      "characters": 3393
+      "characters": 3312
     },
     {
       "file": "14_第四章_讀古書先聽懂它在擔心什麼.md",
-      "characters": 3424
+      "characters": 3356
     },
     {
       "file": "15_第五章_內經眼中的人不是一堆零件.md",
-      "characters": 4067
+      "characters": 3964
     },
     {
       "file": "16_第六章_陰陽男女與親密.md",
-      "characters": 4466
+      "characters": 4403
     },
     {
       "file": "17_第七章_五行不是五種神祕材料.md",
-      "characters": 3264
+      "characters": 3221
     },
     {
       "file": "18_第八章_氣到底是什麼.md",
-      "characters": 3263
+      "characters": 3200
     },
     {
       "file": "19_第九章_精與人的底子.md",
-      "characters": 3327
+      "characters": 3266
     },
     {
       "file": "20_第十章_神與生命有主.md",
-      "characters": 3653
+      "characters": 3586
     },
     {
       "file": "21_第十一章_血與津液.md",
-      "characters": 4098
+      "characters": 4013
     },
     {
       "file": "22_第十二章_五藏不是五個器官的舊名字.md",
-      "characters": 3204
+      "characters": 3146
     },
     {
       "file": "23_第十三章_六府為什麼貴在通.md",
-      "characters": 4105
+      "characters": 4006
     },
     {
       "file": "24_第十四章_經絡與全身相連.md",
-      "characters": 3348
+      "characters": 3279
     },
     {
       "file": "25_第十五章_望診先看人再看病.md",
-      "characters": 3778
+      "characters": 3717
     },
     {
       "file": "26_第十六章_聲音氣味與線索.md",
-      "characters": 3437
+      "characters": 3370
     },
     {
       "file": "27_第十七章_問診不是照表勾選.md",
-      "characters": 3252
+      "characters": 3188
     },
     {
       "file": "28_第十八章_脈診為何讓人著迷.md",
-      "characters": 3504
+      "characters": 3431
     },
     {
       "file": "29_第十九章_四診合參.md",
-      "characters": 3779
+      "characters": 3708
     },
     {
       "file": "30_第二十章_平人是什麼樣子.md",
-      "characters": 3865
+      "characters": 3783
     },
     {
       "file": "31_第二十一章_風寒暑濕燥火.md",
-      "characters": 3307
+      "characters": 3233
     },
     {
       "file": "32_第二十二章_喜怒憂思恐.md",
-      "characters": 3257
+      "characters": 3188
     },
     {
       "file": "33_第二十三章_飲食勞倦與生活.md",
-      "characters": 3339
+      "characters": 3274
     },
     {
       "file": "34_第二十四章_邪氣與正氣.md",
-      "characters": 3260
+      "characters": 3197
     },
     {
       "file": "35_第二十五章_寒熱虛實.md",
-      "characters": 3970
+      "characters": 3877
     },
     {
       "file": "36_第二十六章_病從表入裡.md",
-      "characters": 4043
+      "characters": 3950
     },
     {
       "file": "37_第二十七章_同病不同人.md",
-      "characters": 4083
+      "characters": 3976
     },
     {
       "file": "38_第二十八章_治病必求於本.md",
-      "characters": 3295
+      "characters": 3210
     },
     {
       "file": "39_第二十九章_扶正與祛邪.md",
-      "characters": 3392
+      "characters": 3291
     },
     {
       "file": "40_第三十章_汗吐下和.md",
-      "characters": 3393
-    },
-    {
-      "file": "41_第三十一章_針刺之前.md",
-      "characters": 3277
-    },
-    {
-      "file": "42_第三十二章_穴位與身體反應.md",
-      "characters": 3502
-    },
-    {
-      "file": "43_第三十三章_補瀉迎隨與分寸.md",
-      "characters": 3519
-    },
-    {
-      "file": "44_第三十四章_治療何時該停.md",
-      "characters": 3256
-    },
-    {
-      "file": "45_第三十五章_四季與身體節律.md",
       "characters": 3292
     },
     {
+      "file": "41_第三十一章_針刺之前.md",
+      "characters": 3188
+    },
+    {
+      "file": "42_第三十二章_穴位與身體反應.md",
+      "characters": 3425
+    },
+    {
+      "file": "43_第三十三章_補瀉迎隨與分寸.md",
+      "characters": 3430
+    },
+    {
+      "file": "44_第三十四章_治療何時該停.md",
+      "characters": 3168
+    },
+    {
+      "file": "45_第三十五章_四季與身體節律.md",
+      "characters": 3214
+    },
+    {
       "file": "46_第三十六章_一天之中的晨昏開闔.md",
-      "characters": 3195
+      "characters": 3116
     },
     {
       "file": "47_第三十七章_吃飯與節度.md",
-      "characters": 4123
+      "characters": 4012
     },
     {
       "file": "48_第三十八章_睡眠與夜晚.md",
-      "characters": 4080
+      "characters": 3971
     },
     {
       "file": "49_第三十九章_動靜之間.md",
-      "characters": 3163
+      "characters": 3077
     },
     {
       "file": "50_第四十章_五味入口之後.md",
-      "characters": 4004
+      "characters": 3897
     },
     {
       "file": "51_第四十一章_治未病與日常覺察.md",
-      "characters": 3240
+      "characters": 3156
     },
     {
       "file": "52_第四十二章_生長壯老已.md",
-      "characters": 3371
+      "characters": 3290
     },
     {
       "file": "53_第四十三章_月經孕育與產後.md",
-      "characters": 4032
+      "characters": 3917
     },
     {
       "file": "54_第四十四章_男人的盛衰節律.md",
-      "characters": 4026
+      "characters": 3929
     },
     {
       "file": "55_第四十五章_孩子有自己的身體.md",
-      "characters": 4377
+      "characters": 4255
     },
     {
       "file": "56_第四十六章_中年的轉彎.md",
-      "characters": 4117
+      "characters": 3996
     },
     {
       "file": "57_第四十七章_老年值得理解.md",
-      "characters": 4288
+      "characters": 4174
     },
     {
       "file": "58_第四十八章_兩種醫學語言.md",
-      "characters": 4032
+      "characters": 3939
     },
     {
       "file": "59_第四十九章_讀懂流行養生說法.md",
-      "characters": 3349
+      "characters": 3252
     },
     {
       "file": "60_第五十章_經典留給今天的眼光.md",
-      "characters": 3359
+      "characters": 3271
     },
     {
       "file": "61_附錄一_素問入門閱讀次第.md",
