@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經輕鬆談",
   "target_characters": 200000,
-  "current_characters": 145060,
+  "current_characters": 148353,
   "completed_units": 56,
   "records": [
     {
@@ -90,43 +90,43 @@
     },
     {
       "file": "31_第二十一章_風寒暑濕燥火.md",
-      "characters": 2405
+      "characters": 2769
     },
     {
       "file": "32_第二十二章_喜怒憂思恐.md",
-      "characters": 2361
+      "characters": 2705
     },
     {
       "file": "33_第二十三章_飲食勞倦與生活.md",
-      "characters": 2486
+      "characters": 2825
     },
     {
       "file": "34_第二十四章_邪氣與正氣.md",
-      "characters": 2401
+      "characters": 2726
     },
     {
       "file": "35_第二十五章_寒熱虛實.md",
-      "characters": 2252
+      "characters": 2537
     },
     {
       "file": "36_第二十六章_病從表入裡.md",
-      "characters": 2186
+      "characters": 2523
     },
     {
       "file": "37_第二十七章_同病不同人.md",
-      "characters": 2246
+      "characters": 2584
     },
     {
       "file": "38_第二十八章_治病必求於本.md",
-      "characters": 2413
+      "characters": 2756
     },
     {
       "file": "39_第二十九章_扶正與祛邪.md",
-      "characters": 2553
+      "characters": 2864
     },
     {
       "file": "40_第三十章_汗吐下和.md",
-      "characters": 2563
+      "characters": 2870
     },
     {
       "file": "41_第三十一章_針刺之前.md",
