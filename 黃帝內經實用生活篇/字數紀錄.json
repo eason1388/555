@@ -1,8 +1,8 @@
 {
   "title": "黃帝內經實用生活篇",
   "target_characters": 200000,
-  "current_characters": 44439,
-  "completed_units": 27,
+  "current_characters": 55962,
+  "completed_units": 35,
   "records": [
     {
       "file": "10_導讀_把經典放進平常的一天.md",
@@ -111,6 +111,38 @@
     {
       "file": "36_第二十六章_休息要對準真正的消耗.md",
       "characters": 1438
+    },
+    {
+      "file": "37_第二十七章_情緒先在身體裡發生.md",
+      "characters": 1362
+    },
+    {
+      "file": "38_第二十八章_怒氣需要出口也需要界線.md",
+      "characters": 1192
+    },
+    {
+      "file": "39_第二十九章_思慮太久生活會卡在哪裡.md",
+      "characters": 1241
+    },
+    {
+      "file": "40_第三十章_悲傷有自己的時間.md",
+      "characters": 1274
+    },
+    {
+      "file": "41_第三十一章_害怕時先替身體找回安定.md",
+      "characters": 1199
+    },
+    {
+      "file": "42_第三十二章_家人怎樣彼此相養.md",
+      "characters": 1828
+    },
+    {
+      "file": "43_第三十三章_伴侶陰陽與親密調和.md",
+      "characters": 1762
+    },
+    {
+      "file": "44_第三十四章_獨處陪伴與精神的開闔.md",
+      "characters": 1665
     }
   ]
 }
