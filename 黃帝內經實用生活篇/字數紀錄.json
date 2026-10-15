@@ -1,8 +1,8 @@
 {
   "title": "黃帝內經實用生活篇",
   "target_characters": 200000,
-  "current_characters": 34893,
-  "completed_units": 20,
+  "current_characters": 44439,
+  "completed_units": 27,
   "records": [
     {
       "file": "10_導讀_把經典放進平常的一天.md",
@@ -83,6 +83,34 @@
     {
       "file": "29_第十九章_病後的胃口與恢復.md",
       "characters": 1620
+    },
+    {
+      "file": "30_第二十章_久坐以後氣血重新走動.md",
+      "characters": 1405
+    },
+    {
+      "file": "31_第二十一章_走路是最平常的全身活動.md",
+      "characters": 1372
+    },
+    {
+      "file": "32_第二十二章_肌力保存著生活的自主.md",
+      "characters": 1378
+    },
+    {
+      "file": "33_第二十三章_伸展順著身體不追求疼痛.md",
+      "characters": 1193
+    },
+    {
+      "file": "34_第二十四章_出汗以後要懂得收尾.md",
+      "characters": 1328
+    },
+    {
+      "file": "35_第二十五章_疲倦有不同的來路.md",
+      "characters": 1432
+    },
+    {
+      "file": "36_第二十六章_休息要對準真正的消耗.md",
+      "characters": 1438
     }
   ]
 }
