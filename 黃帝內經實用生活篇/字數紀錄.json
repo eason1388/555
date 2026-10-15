@@ -1,8 +1,8 @@
 {
   "title": "黃帝內經實用生活篇",
   "target_characters": 200000,
-  "current_characters": 55962,
-  "completed_units": 35,
+  "current_characters": 68797,
+  "completed_units": 42,
   "records": [
     {
       "file": "10_導讀_把經典放進平常的一天.md",
@@ -143,6 +143,34 @@
     {
       "file": "44_第三十四章_獨處陪伴與精神的開闔.md",
       "characters": 1665
+    },
+    {
+      "file": "45_第三十五章_春天把收藏的力量慢慢打開.md",
+      "characters": 1765
+    },
+    {
+      "file": "46_第三十六章_夏天向外也要留住津氣.md",
+      "characters": 1819
+    },
+    {
+      "file": "47_第三十七章_長夏濕重生活需要清爽流動.md",
+      "characters": 1772
+    },
+    {
+      "file": "48_第三十八章_秋天開始收斂與整理.md",
+      "characters": 1699
+    },
+    {
+      "file": "49_第三十九章_冬天把力量藏回深處.md",
+      "characters": 1950
+    },
+    {
+      "file": "50_第四十章_換季是一段路不是一個日期.md",
+      "characters": 1746
+    },
+    {
+      "file": "51_第四十一章_光線聲音溫度與住家的氣.md",
+      "characters": 2084
     }
   ]
 }
