@@ -1,8 +1,8 @@
 {
   "title": "黃帝內經實用生活篇",
   "target_characters": 200000,
-  "current_characters": 14305,
-  "completed_units": 7,
+  "current_characters": 24833,
+  "completed_units": 13,
   "records": [
     {
       "file": "10_導讀_把經典放進平常的一天.md",
@@ -31,6 +31,30 @@
     {
       "file": "16_第六章_養生與就醫各有位置.md",
       "characters": 2000
+    },
+    {
+      "file": "17_第七章_起床後的第一個時辰.md",
+      "characters": 1932
+    },
+    {
+      "file": "18_第八章_晨光呼吸與一天的展開.md",
+      "characters": 1741
+    },
+    {
+      "file": "19_第九章_午間是轉換不要硬撐.md",
+      "characters": 1754
+    },
+    {
+      "file": "20_第十章_黃昏以後怎樣慢慢收心.md",
+      "characters": 1694
+    },
+    {
+      "file": "21_第十一章_睡眠是夜裡的收藏.md",
+      "characters": 1647
+    },
+    {
+      "file": "22_第十二章_輪班旅行與不規則生活.md",
+      "characters": 1760
     }
   ]
 }
