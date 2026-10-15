@@ -1,7 +1,7 @@
 {
   "title": "黃帝內經實用生活篇",
   "target_characters": 200000,
-  "current_characters": 178102,
+  "current_characters": 183567,
   "completed_units": 57,
   "records": [
     {
@@ -210,27 +210,27 @@
     },
     {
       "file": "61_附錄一_七日生活觀察表.md",
-      "characters": 2196
+      "characters": 3429
     },
     {
       "file": "62_附錄二_四季生活調整表.md",
-      "characters": 2500
+      "characters": 3257
     },
     {
       "file": "63_附錄三_飲食活動與休息的簡易記錄法.md",
-      "characters": 2322
+      "characters": 3140
     },
     {
       "file": "64_附錄四_需要及時就醫的常見訊號.md",
-      "characters": 2783
+      "characters": 3691
     },
     {
       "file": "65_附錄五_本書引用的素問靈樞篇章.md",
-      "characters": 4615
+      "characters": 5505
     },
     {
       "file": "70_後記_日子過順了身體才有餘地.md",
-      "characters": 1554
+      "characters": 2413
     }
   ]
 }
