@@ -1,0 +1,36 @@
+{
+  "title": "黃帝內經實用生活篇",
+  "target_characters": 200000,
+  "current_characters": 14305,
+  "completed_units": 7,
+  "records": [
+    {
+      "file": "10_導讀_把經典放進平常的一天.md",
+      "characters": 2346
+    },
+    {
+      "file": "11_第一章_身體有自己的平常.md",
+      "characters": 2196
+    },
+    {
+      "file": "12_第二章_從一天看見身體的節律.md",
+      "characters": 2037
+    },
+    {
+      "file": "13_第三章_小變化常比大口號有用.md",
+      "characters": 1901
+    },
+    {
+      "file": "14_第四章_讓生活有可以依靠的節點.md",
+      "characters": 1884
+    },
+    {
+      "file": "15_第五章_用得出去也要收得回來.md",
+      "characters": 1941
+    },
+    {
+      "file": "16_第六章_養生與就醫各有位置.md",
+      "characters": 2000
+    }
+  ]
+}
