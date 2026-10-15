@@ -1,8 +1,8 @@
 {
   "title": "黃帝內經實用生活篇",
   "target_characters": 200000,
-  "current_characters": 24833,
-  "completed_units": 13,
+  "current_characters": 34893,
+  "completed_units": 20,
   "records": [
     {
       "file": "10_導讀_把經典放進平常的一天.md",
@@ -55,6 +55,34 @@
     {
       "file": "22_第十二章_輪班旅行與不規則生活.md",
       "characters": 1760
+    },
+    {
+      "file": "23_第十三章_先分清餓饞與疲倦.md",
+      "characters": 1393
+    },
+    {
+      "file": "24_第十四章_三餐之間留出消化時間.md",
+      "characters": 1323
+    },
+    {
+      "file": "25_第十五章_酸苦甘辛鹹味道也有分寸.md",
+      "characters": 1375
+    },
+    {
+      "file": "26_第十六章_喝水跟著天氣活動與排出.md",
+      "characters": 1355
+    },
+    {
+      "file": "27_第十七章_外食生活也能慢慢調整.md",
+      "characters": 1516
+    },
+    {
+      "file": "28_第十八章_節慶聚餐以後身體怎樣回來.md",
+      "characters": 1478
+    },
+    {
+      "file": "29_第十九章_病後的胃口與恢復.md",
+      "characters": 1620
     }
   ]
 }
