@@ -1,8 +1,8 @@
 {
   "title": "前世今生：一氣流轉的生命之書",
   "target_characters": 200000,
-  "current_characters": 24937,
-  "completed_units": 13,
+  "current_characters": 28705,
+  "completed_units": 16,
   "records": [
     {
       "file": "10_導讀_前世今生要從一氣流轉談起.md",
@@ -55,6 +55,18 @@
     {
       "file": "22_第十二章_人怎樣在一生中改變自己的勢.md",
       "characters": 1581
+    },
+    {
+      "file": "23_第十三章_莫名的熟悉感從何而來.md",
+      "characters": 1112
+    },
+    {
+      "file": "24_第十四章_夢裡的地方與沒有經歷過的記憶.md",
+      "characters": 1281
+    },
+    {
+      "file": "25_第十五章_初見一人卻像久別重逢.md",
+      "characters": 1375
     }
   ]
 }
