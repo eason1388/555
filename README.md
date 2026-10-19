@@ -4,7 +4,7 @@
 
 ## 線上閱讀
 
-完整書稿可在 [線上書庫](https://eason1388.github.io/555/) 閱讀，支援書籍切換、章節目錄、全文展開、關鍵字搜尋、字級與深色模式。亦可直接進入 [《修道與濟世》](https://eason1388.github.io/555/?book=xiudao)、[《陰陽相和》](https://eason1388.github.io/555/?book=yinyang)、[《黃帝內經輕鬆談》](https://eason1388.github.io/555/?book=qingsong)、[《黃帝內經實用生活篇》](https://eason1388.github.io/555/?book=life) 或 [《前世今生：一氣流轉的生命之書》](https://eason1388.github.io/555/?book=pastlife)。
+完整書稿可在 [線上書庫](https://eason1388.github.io/555/) 閱讀，支援書籍切換、章節目錄、全文展開、關鍵字搜尋、字級與深色模式。亦可直接進入 [《修道與濟世》](https://eason1388.github.io/555/?book=xiudao)、[《陰陽相和》](https://eason1388.github.io/555/?book=yinyang)、[《黃帝內經輕鬆談》](https://eason1388.github.io/555/?book=qingsong)、[《黃帝內經實用生活篇》](https://eason1388.github.io/555/?book=life)、[《前世今生：一氣流轉的生命之書》](https://eason1388.github.io/555/?book=pastlife) 或 [《羅盤》](https://eason1388.github.io/555/?book=luopan)。
 
 ## 新書計畫
 
@@ -15,6 +15,8 @@
 [`黃帝內經實用生活篇/`](黃帝內經實用生活篇/) 收錄新作《黃帝內經實用生活篇》。全書以每天的使用、收藏與補充為主線，將《內經》的整體眼光落實於作息、飲食、活動、情緒、關係、四季與生命階段。目前已完成全書目錄、導讀與第一篇六章，後續將依目錄持續完成約二十萬字，並同步更新[線上閱讀版](https://eason1388.github.io/555/?book=life)。
 
 [`前世今生一氣流轉/`](前世今生一氣流轉/) 收錄新作《前世今生：一氣流轉的生命之書》。全書以「前世今生，是道中一氣在聚散、感通與承續中的生命長流」為唯一理論，沿著道、氣、形、神、德與感應，談生命來處、相遇、死亡與今生的選擇，並同步更新[線上閱讀版](https://eason1388.github.io/555/?book=pastlife)。
+
+[`羅盤/`](羅盤/) 收錄新作《羅盤》。全書以「羅盤以中定向，以向辨氣；讀懂方位，終要回到人與環境如何安居」為唯一理論，從磁針、天池與二十四山出發，依次講述盤層、環境、住宅與現場操作。導讀、五十章、五項附錄與後記均已完成，共五十七個正文單元、230,420 字，並提供[線上閱讀版](https://eason1388.github.io/555/?book=luopan)。
 
 ## 給接手者的第一句指令
 
