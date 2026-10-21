@@ -105,6 +105,12 @@ DAOZHIGUANG_GROUPS = [
     (70, 70, "後記"),
 ]
 
+SINGLE_BOOK_GUIDE_GROUPS = [
+    (10, 11, "正版入口與讀法"),
+    (20, 27, "核心教法與使用方式"),
+    (30, 99, "逐章導讀"),
+]
+
 BOOKS = [
     {
         "slug": "xiudao",
@@ -181,10 +187,58 @@ BOOKS = [
         "end": 70,
     },
     {
+        "slug": "tianyan",
+        "directory": ROOT / "天眼風水師導讀",
+        "title": "天眼風水師導讀",
+        "subtitle": "逐章情節、教法、重點與使用方式",
+        "mark": "眼",
+        "motto": "看見條件，辨明推理，讓方法回到自己的選擇。",
+        "intro": "獨立整理《天眼風水師》的故事結構、觀察方法、預測倫理、環境與人心，並依官方原作逐章整理情節作用、教法、重點和生活使用方式。",
+        "theme_count": 3,
+        "groups": SINGLE_BOOK_GUIDE_GROUPS,
+        "start": 10,
+        "end": 99,
+        "official_links": [
+            {"label": "官方正版閱讀《天眼風水師》", "url": "https://fanqienovel.com/page/7326876174989134910"},
+        ],
+    },
+    {
+        "slug": "huayan",
+        "directory": ROOT / "畫眼睛導讀",
+        "title": "畫眼睛導讀",
+        "subtitle": "逐章情節、教法、重點與使用方式",
+        "mark": "見",
+        "motto": "看見事實、動機與後果，再把目光收回自己。",
+        "intro": "獨立整理《畫眼睛》的家庭、婚姻、職場、人性、情緒與界線，並依官方原作逐章整理情節作用、教法、重點和生活使用方式。",
+        "theme_count": 3,
+        "groups": SINGLE_BOOK_GUIDE_GROUPS,
+        "start": 10,
+        "end": 99,
+        "official_links": [
+            {"label": "官方正版閱讀《畫眼睛》", "url": "https://fanqienovel.com/page/7513623524011936793"},
+        ],
+    },
+    {
+        "slug": "fengshen",
+        "directory": ROOT / "修仙封神榜導讀",
+        "title": "修仙封神榜導讀",
+        "subtitle": "逐章情節、教法、重點與使用方式",
+        "mark": "正",
+        "motto": "不以名號辨仙魔，以行為、責任與後果辨正道。",
+        "intro": "獨立整理《修仙封神榜》的仙魔世界、正道、善、因果、覺知與修人，並依官方原作逐章整理情節作用、教法、重點和生活使用方式。",
+        "theme_count": 3,
+        "groups": SINGLE_BOOK_GUIDE_GROUPS,
+        "start": 10,
+        "end": 99,
+        "official_links": [
+            {"label": "官方正版閱讀《修仙封神榜》", "url": "https://fanqienovel.com/page/7417422869342211097"},
+        ],
+    },
+    {
         "slug": "daozhiguang",
         "directory": ROOT / "道之光三書導讀",
-        "title": "道之光三書實用導讀",
-        "subtitle": "《天眼風水師》《畫眼睛》《修仙封神榜》的教法、重點與用法",
+        "title": "三書合用總覽",
+        "subtitle": "《天眼風水師》《畫眼睛》《修仙封神榜》的共同方法",
         "mark": "觀",
         "motto": "先看清事情，再看懂人心，最後決定自己要成為什麼樣的人。",
         "intro": "把三部作品整理成「看事、看心、立道」三層方法，逐本說明教學方式、核心重點與實際用法，並以家庭、感情、工作、金錢、求助、權威與低潮等情境示範三書合用，再附七步法、二十一日計畫、自我提問和工作表。",
@@ -192,6 +246,11 @@ BOOKS = [
         "groups": DAOZHIGUANG_GROUPS,
         "start": 10,
         "end": 70,
+        "official_links": [
+            {"label": "官方正版閱讀《天眼風水師》", "url": "https://fanqienovel.com/page/7326876174989134910"},
+            {"label": "官方正版閱讀《畫眼睛》", "url": "https://fanqienovel.com/page/7513623524011936793"},
+            {"label": "官方正版閱讀《修仙封神榜》", "url": "https://fanqienovel.com/page/7417422869342211097"},
+        ],
     },
 ]
 
@@ -345,6 +404,7 @@ def build_book(config: dict[str, object]) -> dict[str, object]:
         "mark": config["mark"],
         "motto": config["motto"],
         "intro": config["intro"],
+        "officialLinks": config.get("official_links", []),
         "themeCount": config["theme_count"],
         "chapterCount": len(chapters),
         "characters": sum(int(chapter["characters"]) for chapter in chapters),

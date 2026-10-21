@@ -4,7 +4,7 @@
 
 ## 線上閱讀
 
-完整書稿可在 [線上書庫](https://eason1388.github.io/555/) 閱讀，支援書籍切換、章節目錄、全文展開、關鍵字搜尋、字級與深色模式。亦可直接進入 [《修道與濟世》](https://eason1388.github.io/555/?book=xiudao)、[《陰陽相和》](https://eason1388.github.io/555/?book=yinyang)、[《黃帝內經輕鬆談》](https://eason1388.github.io/555/?book=qingsong)、[《黃帝內經實用生活篇》](https://eason1388.github.io/555/?book=life)、[《前世今生：一氣流轉的生命之書》](https://eason1388.github.io/555/?book=pastlife)、[《羅盤》](https://eason1388.github.io/555/?book=luopan) 或 [《道之光三書實用導讀》](https://eason1388.github.io/555/?book=daozhiguang)。
+完整書稿可在 [線上書庫](https://eason1388.github.io/555/) 閱讀，支援書籍切換、章節目錄、全文展開、關鍵字搜尋、字級與深色模式。三部作品導讀已獨立分為 [《天眼風水師導讀》](https://eason1388.github.io/555/?book=tianyan)、[《畫眼睛導讀》](https://eason1388.github.io/555/?book=huayan) 與 [《修仙封神榜導讀》](https://eason1388.github.io/555/?book=fengshen)，另保留[三書合用總覽](https://eason1388.github.io/555/?book=daozhiguang)。
 
 ## 新書計畫
 

@@ -123,13 +123,17 @@
         <button class="primary-action" id="start-reading" type="button">從導論開始</button>
         <button class="secondary-action" id="read-all" type="button">一次展開全文</button>
       </div>
+      ${Array.isArray(book.officialLinks) && book.officialLinks.length ? `<div class="official-links" aria-label="官方正版閱讀連結">
+        <span>官方正版閱讀</span>
+        ${book.officialLinks.map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(link.label)}</a>`).join("")}
+      </div>` : ""}
       <div class="book-stats" aria-label="全書統計">
         <div class="book-stat"><strong>${book.chapterCount}</strong><span>篇章單元</span></div>
         <div class="book-stat"><strong>${book.themeCount}</strong><span>主題篇章</span></div>
         <div class="book-stat"><strong>${Math.round(book.characters / 10000)} 萬</strong><span>約略字元</span></div>
       </div>
     </section>`;
-    document.querySelector("#start-reading").addEventListener("click", () => { location.hash = "chapter-00"; });
+    document.querySelector("#start-reading").addEventListener("click", () => { location.hash = `chapter-${book.chapters[0].id}`; });
     document.querySelector("#read-all").addEventListener("click", () => { location.hash = "all"; });
   }
 

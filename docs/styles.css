@@ -224,6 +224,10 @@ a:hover { text-decoration-thickness: 2px; }
 .primary-action { color: var(--paper-strong); background: var(--accent); }
 .secondary-action { color: var(--accent); background: transparent; }
 .primary-action:hover, .secondary-action:hover { filter: brightness(0.96); }
+.official-links { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; max-width: 700px; margin-top: 18px; }
+.official-links span { width: 100%; color: var(--ink-soft); font-size: 12px; font-weight: 700; letter-spacing: 0.12em; }
+.official-links a { display: inline-flex; align-items: center; min-height: 40px; padding: 8px 14px; border: 1px solid var(--green); border-radius: 999px; color: var(--green); background: var(--paper-strong); font-size: 14px; font-weight: 700; text-decoration: none; }
+.official-links a:hover { color: var(--paper-strong); background: var(--green); }
 .book-stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin-top: 52px; border: 1px solid var(--line); background: var(--line); }
 .book-stat { padding: 18px 20px; background: var(--paper-strong); }
 .book-stat strong { display: block; font-size: 23px; line-height: 1.2; }
