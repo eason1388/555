@@ -4,7 +4,7 @@
 
 ## 線上閱讀
 
-完整書稿可在 [線上書庫](https://eason1388.github.io/555/) 閱讀，支援書籍切換、章節目錄、全文展開、關鍵字搜尋、字級與深色模式。亦可直接進入 [《修道與濟世》](https://eason1388.github.io/555/?book=xiudao)、[《陰陽相和》](https://eason1388.github.io/555/?book=yinyang)、[《黃帝內經輕鬆談》](https://eason1388.github.io/555/?book=qingsong)、[《黃帝內經實用生活篇》](https://eason1388.github.io/555/?book=life)、[《前世今生：一氣流轉的生命之書》](https://eason1388.github.io/555/?book=pastlife) 或 [《羅盤》](https://eason1388.github.io/555/?book=luopan)。
+完整書稿可在 [線上書庫](https://eason1388.github.io/555/) 閱讀，支援書籍切換、章節目錄、全文展開、關鍵字搜尋、字級與深色模式。亦可直接進入 [《修道與濟世》](https://eason1388.github.io/555/?book=xiudao)、[《陰陽相和》](https://eason1388.github.io/555/?book=yinyang)、[《黃帝內經輕鬆談》](https://eason1388.github.io/555/?book=qingsong)、[《黃帝內經實用生活篇》](https://eason1388.github.io/555/?book=life)、[《前世今生：一氣流轉的生命之書》](https://eason1388.github.io/555/?book=pastlife)、[《羅盤》](https://eason1388.github.io/555/?book=luopan) 或 [《道之光三書實用導讀》](https://eason1388.github.io/555/?book=daozhiguang)。
 
 ## 新書計畫
 
@@ -17,6 +17,8 @@
 [`前世今生一氣流轉/`](前世今生一氣流轉/) 收錄新作《前世今生：一氣流轉的生命之書》。全書以「前世今生，是道中一氣在聚散、感通與承續中的生命長流」為唯一理論，沿著道、氣、形、神、德與感應，談生命來處、相遇、死亡與今生的選擇，並同步更新[線上閱讀版](https://eason1388.github.io/555/?book=pastlife)。
 
 [`羅盤/`](羅盤/) 收錄《羅盤》。全書以「羅盤以中定向，以向辨氣；讀懂方位，終要回到人與環境如何安居」為唯一理論，從磁針、天池與二十四山出發，依次講述盤層、環境、住宅與現場操作。導讀、五十章、七項附錄與後記均已完成，共五十九個正文單元、204,035 字；每章均有操作步驟、排錯、工作表與練習，並附二十個實測案例和三十堂現場課。可在[線上閱讀版](https://eason1388.github.io/555/?book=luopan)完整閱讀。
+
+[`道之光三書導讀/`](道之光三書導讀/) 收錄《道之光三書實用導讀》，依公開作品頁與章目，以原創文字整理《天眼風水師》《畫眼睛》《修仙封神榜》的教學方式、核心重點與實際用法。全書以「看事、看心、立道」串聯三書，附十二個生活案例、三書合用七步法、二十一日實踐計畫與三種工作表，可在[線上閱讀版](https://eason1388.github.io/555/?book=daozhiguang)完整閱讀。
 
 ## 給接手者的第一句指令
 
